@@ -10,9 +10,9 @@
                 </div>
                 
                 <div id="site-link" class="foot-item bg-dark">
-                    <p class=" text-center"><a class="text-white" href="../orders.php">Orders</a></p>
-                    <p class="text-white text-center"><a class="text-white" href="../transaction.php">Payment</a></p>
-                    <p class="text-white text-center"><a class="text-white" href="../comment.php">Leave a comment</a></p>
+                    <p class=" text-center"><a class="text-white" href="./orders.php">Orders</a></p>
+                    <p class="text-white text-center"><a class="text-white" href="./transaction.php">Payment</a></p>
+                    <p class="text-white text-center"><a class="text-white" href="./comment.php">Leave a comment</a></p>
                 </div>
                 
                 <div id="subscribe" class="foot-item bg-dark">
