@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         
 
         Auth::login($_POST['username']);
-       Url::redirect("/project/");
+       Url::redirect("/");
 
 }else {
 
